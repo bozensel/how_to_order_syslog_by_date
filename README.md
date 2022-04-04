@@ -11,4 +11,4 @@ See syslog file after the code is run.
 
 <img width="889" alt="After_Sorted" src="https://user-images.githubusercontent.com/94804863/161487638-96dc4180-badc-4858-aa0e-ad38f54a8cd4.PNG">
 
-This works without an issue even after the excels consists of 200k lines, it sorts the syslogs by date in 10-15 seconds. 
+This works without an issue even after the excels consists of 200k lines. It sorts the syslogs by date in 10-15 seconds. 
