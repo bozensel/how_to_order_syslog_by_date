@@ -1,5 +1,5 @@
 # how_to_order_syslog_by_date
-how to sort an unordered syslog file by date. 
+How to sort an unordered syslog file by date. 
 
 This program helps to order syslog file by date. 
 
